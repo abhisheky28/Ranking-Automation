@@ -1,0 +1,13 @@
+2025-11-10 18:58:16,242 - INFO - --- Starting PDP Sheet Automator Script (V2) ---
+2025-11-10 18:58:16,242 - INFO - Connecting to Google Sheets API...
+2025-11-10 18:58:16,304 - INFO - Successfully connected to Google Sheets API.
+2025-11-10 18:58:16,310 - CRITICAL - A critical, unhandled error occurred: name 'PDP_SPREADSHEET_ID' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Abhishek Yadav\Documents\PDP Analysis\pdp_checker.py", line 175, in main
+    spreadsheet = gspread_client.open_by_key(PDP_SPREADSHEET_ID)
+                                             ^^^^^^^^^^^^^^^^^^
+NameError: name 'PDP_SPREADSHEET_ID' is not defined
+
+2025-11-10 18:58:16,310 - INFO - Preparing to send error email to: abhishek.yadav@infidigit.com
+2025-11-10 18:58:19,422 - INFO - Error email sent successfully.
+2025-11-10 18:58:19,645 - INFO - --- PDP Sheet Automator Script Finished ---
