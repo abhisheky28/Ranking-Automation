@@ -13,23 +13,23 @@ your personal SEO assistant for tracking performance.
 Who is this Tool For?
 This tool is designed for anyone who needs to track their website's search engine ranking without
 spending hours doing it manually. It's perfect for:
-● SEO Specialists: To monitor keyword performance for clients or in-house projects.
-● Digital Marketers: To track the impact of marketing campaigns on search visibility.
-● Business Owners: To keep an eye on their website's position for important search terms.
-● Content Creators: To see how their articles and blog posts are ranking on Google.
+1. SEO Specialists: To monitor keyword performance for clients or in-house projects.
+2. Digital Marketers: To track the impact of marketing campaigns on search visibility.
+3. Business Owners: To keep an eye on their website's position for important search terms.
+4. Content Creators: To see how their articles and blog posts are ranking on Google.
 
 Key Features at a Glance
-● Fully Automated Ranking Checks: Just add your keywords and target URL to a Google
+1. Fully Automated Ranking Checks: Just add your keywords and target URL to a Google
 Sheet, and the tool does the rest.
-● Google Sheets Integration: Manages all input and output in one convenient, cloud-based
+2. Google Sheets Integration: Manages all input and output in one convenient, cloud-based
 Google Sheet.
-● Human-Like Browsing: Uses a real Chrome browser profile, random delays, and rotating
+3. Human-Like Browsing: Uses a real Chrome browser profile, random delays, and rotating
 user agents to appear like a real user, reducing the chance of being blocked.
-● CAPTCHA Handling: If a CAPTCHA is detected, the script pauses, sends you an email
+4. CAPTCHA Handling: If a CAPTCHA is detected, the script pauses, sends you an email
 alert, and waits for you to solve it manually before continuing.
-● Detailed Logging: Every action—each search, page scraped, and result found—is recorded
+5. Detailed Logging: Every action—each search, page scraped, and result found—is recorded
 in a local log file so you always know what's happening.
-● Email Error Alerts: If the script crashes or requires your attention (like for a CAPTCHA), it
+6. Email Error Alerts: If the script crashes or requires your attention (like for a CAPTCHA), it
 automatically sends an email to you.
 
 How It Works: A Simple Overview
