@@ -1,12 +1,15 @@
 What is this Automation Tool?
+
 Imagine you have a list of 100 keywords and you need to know where your website ranks for each
 one on Google. Normally, you would have to search each keyword, scroll through pages of results,
 and manually record the position. This is incredibly time-consuming and prone to errors.
 This tool solves that problem.
+
 It is a smart system that uses a Python script to automatically perform Google searches for a list of
 keywords you provide in a Google Sheet. It mimics human behavior to avoid being blocked, finds
 your website's rank for each keyword, and writes the result back into the same Google Sheet. It's
 your personal SEO assistant for tracking performance.
+
 Who is this Tool For?
 This tool is designed for anyone who needs to track their website's search engine ranking without
 spending hours doing it manually. It's perfect for:
@@ -14,6 +17,7 @@ spending hours doing it manually. It's perfect for:
 ● Digital Marketers: To track the impact of marketing campaigns on search visibility.
 ● Business Owners: To keep an eye on their website's position for important search terms.
 ● Content Creators: To see how their articles and blog posts are ranking on Google.
+
 Key Features at a Glance
 ● Fully Automated Ranking Checks: Just add your keywords and target URL to a Google
 Sheet, and the tool does the rest.
@@ -27,6 +31,7 @@ alert, and waits for you to solve it manually before continuing.
 in a local log file so you always know what's happening.
 ● Email Error Alerts: If the script crashes or requires your attention (like for a CAPTCHA), it
 automatically sends an email to you.
+
 How It Works: A Simple Overview
 The process is straightforward. Think of it as giving a set of instructions to a very efficient robot.
 1. You Provide the List: You add keywords and your website URL to the 'Ranking Automator'
